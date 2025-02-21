@@ -14,7 +14,7 @@ ResearchGate: https://www.researchgate.net/publication/377896230_Position_Aware_
 
 Datasets: https://www.deepsense6g.net/scenarios/ <br>
 
-Conctact: m.m.baqer@ieee.org
+Feel free to conctact: m.m.baqer@ieee.org
 
 ### Citatation:
 ```
